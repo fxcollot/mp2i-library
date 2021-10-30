@@ -46,3 +46,5 @@ Vous pouvez regrouper les fonctions similaires dans le même fichier (exemple : 
 Quelques prolongements possibles pour ceux qui sont très motivés :
 - Utiliser des modules (et éventuellement des foncteurs) : https://ocaml.org/manual/moduleexamples.html
 - Générer une documentation avec [ocamldoc](https://ocaml.org/manual/ocamldoc.html) ou [dune](https://dune.readthedocs.io/en/stable/documentation.html)
+
+test
