@@ -13,3 +13,6 @@ let sort_bubble t =
       if t.(j) > t.(j + 1) then swap t j (j + 1)
       done
   done;;
+
+
+sort_bubble [| 1;2;3;4;5;6 |];

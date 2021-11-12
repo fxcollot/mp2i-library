@@ -51,3 +51,4 @@ Quelques prolongements possibles pour ceux qui sont très motivés :
 tableau dynamiques ajouter supp e t ?
 tri fusion
 add/del pour list2c ? Ensembles ?
+a
