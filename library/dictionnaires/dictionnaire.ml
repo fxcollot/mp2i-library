@@ -1,3 +1,6 @@
+let create = 
+    [];;
+
 let add c l =
     c::l;;
     

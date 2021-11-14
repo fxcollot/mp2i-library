@@ -1,3 +1,6 @@
+let create = 
+    [];;
+
 let stack_empty p = 
     p = [];;
     
