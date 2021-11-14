@@ -1,4 +1,4 @@
-let dichotomie t e =
+let dichotomie t e = (* permet de rechercher la présence ou non d'un élément dans une liste en divisant cette dernier en deux intervalles*)
     let rec aux i j =
         if i > j then false
         else 
@@ -10,7 +10,7 @@ let dichotomie t e =
                 aux i (milieu-1) in
     aux 0 (Array.length t - 1);;
 
-let trichotomie t e =
+let trichotomie t e = (* permet de rechercher la présence ou non d'un élément dans une liste en divisant cette dernier en trois intervalles*)
     let rec aux i j =
         if i > j then false
         else let m1 = (2*i + j + 1)/3 in
